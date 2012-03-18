@@ -8,6 +8,19 @@
 
 #import <UIKit/UIKit.h>
 
-@interface edu_renanViewController : UIViewController
+@interface edu_renanViewController : UIViewController {
+    UILabel *HelloWorldLabel_;
+    UIButton *HelloWorldButton_;
+}
+    
+
+
+
+
+
+@property (retain, nonatomic) IBOutlet UIButton *HelloWorldButton;
+@property (retain, nonatomic) IBOutlet UILabel *HelloWorldLabel;
+-(IBAction) DisplayHelloWorldMessage: (id) sender;
+
 
 @end
