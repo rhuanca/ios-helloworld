@@ -37,20 +37,20 @@
 		33DA377515161D630047025B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		33DA377715161D630047025B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		33DA377915161D630047025B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		33DA377D15161D630047025B /* HelloWorld2-Info.plist */ = {isa = PBXFileReference; path = "HelloWorld2-Info.plist"; sourceTree = "<group>"; };
+		33DA377D15161D630047025B /* HelloWorld2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloWorld2-Info.plist"; sourceTree = "<group>"; };
 		33DA377F15161D630047025B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		33DA378115161D630047025B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		33DA378315161D630047025B /* HelloWorld2-Prefix.pch */ = {isa = PBXFileReference; path = "HelloWorld2-Prefix.pch"; sourceTree = "<group>"; };
-		33DA378415161D630047025B /* edu_renanAppDelegate.h */ = {isa = PBXFileReference; path = edu_renanAppDelegate.h; sourceTree = "<group>"; };
+		33DA378315161D630047025B /* HelloWorld2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HelloWorld2-Prefix.pch"; sourceTree = "<group>"; };
+		33DA378415161D630047025B /* edu_renanAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = edu_renanAppDelegate.h; sourceTree = "<group>"; };
 		33DA378515161D630047025B /* edu_renanAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = edu_renanAppDelegate.m; sourceTree = "<group>"; };
 		33DA378815161D640047025B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		33DA378A15161D640047025B /* edu_renanViewController.h */ = {isa = PBXFileReference; path = edu_renanViewController.h; sourceTree = "<group>"; };
+		33DA378A15161D640047025B /* edu_renanViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = edu_renanViewController.h; sourceTree = "<group>"; };
 		33DA378B15161D640047025B /* edu_renanViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = edu_renanViewController.m; sourceTree = "<group>"; };
 		33DA379215161D640047025B /* HelloWorld2Tests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorld2Tests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		33DA379315161D640047025B /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		33DA379B15161D640047025B /* HelloWorld2Tests-Info.plist */ = {isa = PBXFileReference; path = "HelloWorld2Tests-Info.plist"; sourceTree = "<group>"; };
+		33DA379B15161D640047025B /* HelloWorld2Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloWorld2Tests-Info.plist"; sourceTree = "<group>"; };
 		33DA379D15161D640047025B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		33DA379F15161D640047025B /* HelloWorld2Tests.h */ = {isa = PBXFileReference; path = HelloWorld2Tests.h; sourceTree = "<group>"; };
+		33DA379F15161D640047025B /* HelloWorld2Tests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorld2Tests.h; sourceTree = "<group>"; };
 		33DA37A015161D640047025B /* HelloWorld2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorld2Tests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

@@ -14,6 +14,9 @@
 
 @implementation edu_renanViewController
 
+@synthesize HelloWorldLabel = HelloWorldLabel_;
+@synthesize HelloWorldButton = HelloWorldButton_;
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
@@ -29,6 +32,11 @@
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
 {
     return YES;
+}
+
+- (void) DisplayHelloWorldMessage:(id)sender 
+{
+    HelloWorldLabel_.text = @"Hello Renan";
 }
 
 @end
